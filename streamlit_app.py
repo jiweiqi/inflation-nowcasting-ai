@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 
 """
-# Project Inflation using Economic Models and Artificial Intelligence
+# Project Inflation using AI
 
 Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
 
